@@ -1,4 +1,2 @@
-- 🔭 Eu trabalho com um pouco de tudo
-- 🌱 Estou estudando C#
 - ⚙️ Sempre em evolução
 - 📚 Cursando Engenharia de Computação - UTFPR

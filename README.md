@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Felpsgs775/Felpsgs775/main/matrix-header.svg" alt="Wake up, Dev..." width="100%"/>
+<img src="https://raw.githubusercontent.com/Felpsgs775/Felpsgs775/main/matrix-header.svg" alt="Wake up, Dev..."/>
 
 <br/>
 

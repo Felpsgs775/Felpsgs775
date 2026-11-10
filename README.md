@@ -90,8 +90,8 @@ Sempre entendendo o que está sendo feito. A IA ajuda, mas quem aprende sou eu. 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Felpsgs775&show_icons=true&hide_border=false&bg_color=000000&title_color=00FF41&text_color=00CC33&icon_color=00FF41&border_color=003B00&hide_title=false" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpsgs775&layout=compact&bg_color=000000&title_color=00FF41&text_color=00CC33&border_color=003B00" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=Felpsgs775&show_icons=true&hide_border=false&bg_color=000000&title_color=00FF41&text_color=00CC33&icon_color=00FF41&border_color=003B00&hide_title=false" alt="Estatísticas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpsgs775&layout=compact&bg_color=000000&title_color=00FF41&text_color=00CC33&border_color=003B00" alt="Linguagens mais usadas" />
 
 <br/>
 
@@ -105,10 +105,10 @@ Sempre entendendo o que está sendo feito. A IA ajuda, mas quem aprende sou eu. 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/felpsgs/">
   <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn" />
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:felipegarciasilva05@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" alt="E-mail" />
 </a>
 

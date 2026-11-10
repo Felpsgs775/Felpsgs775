@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./matrix-header.svg" alt="Wake up, Dev..." width="100%"/>
+<img src="https://raw.githubusercontent.com/Felpsgs775/Felpsgs775/main/matrix-header.svg" alt="Wake up, Dev..." width="100%"/>
 
 <br/>
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/Felpsgs775">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=640&lines=%3E+Ol%C3%A1%2C+mundo!;%3E+Estudante+de+Sistemas+para+Internet;%3E+Suporte+hoje%2C+Dev+amanh%C3%A3;%3E+C%23+%7C+JavaScript+%7C+TypeScript+%7C+SQL;%3E+Aprendendo+todos+os+dias..." alt="Typing SVG" />
 </a>
 
@@ -90,12 +90,12 @@ Sempre entendendo o que está sendo feito. A IA ajuda, mas quem aprende sou eu. 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=false&bg_color=000000&title_color=00FF41&text_color=00CC33&icon_color=00FF41&border_color=003B00&hide_title=false" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&bg_color=000000&title_color=00FF41&text_color=00CC33&border_color=003B00" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Felpsgs775&show_icons=true&hide_border=false&bg_color=000000&title_color=00FF41&text_color=00CC33&icon_color=00FF41&border_color=003B00&hide_title=false" alt="Estatísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpsgs775&layout=compact&bg_color=000000&title_color=00FF41&text_color=00CC33&border_color=003B00" alt="Linguagens mais usadas" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00CC33&sideNums=00CC33&sideLabels=00FF41&dates=00AA2B&stroke=003B00&border=003B00" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=Felpsgs775&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00CC33&sideNums=00CC33&sideLabels=00FF41&dates=00AA2B&stroke=003B00&border=003B00" alt="Sequência de contribuições" />
 
 </div>
 

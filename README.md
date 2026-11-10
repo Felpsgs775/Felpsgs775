@@ -23,12 +23,12 @@
 ```bash
 $ cat sobre_mim.txt
 
-Nome.......: SEU NOME AQUI
+Nome.......: Felipe Garcia Silva
 Formação...: Sistemas para Internet @ UTFPR (Universidade Tecnológica Federal do Paraná)
 Atualmente.: Analista de Suporte
 Objetivo...: Migrar para o desenvolvimento de software
 Foco.......: Back-end, Web e Banco de Dados
-Mantra.....: "Quem aprende, evolui."
+Mantra.....: "Sem sacrifício, não há vitória."
 ```
 
 Trabalho com suporte técnico e, ao mesmo tempo, estudo para atuar como desenvolvedor. Meu dia a dia me ensinou a entender problemas reais de usuários, e agora quero ser quem constrói as soluções.
